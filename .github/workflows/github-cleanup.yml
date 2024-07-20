@@ -12,9 +12,9 @@ on:
 #   schedule:
 #     - cron: '0 */2 31 2 *'
 
-jobs:
-  cleanup:
-    name: GitHub Cleanup
-    uses: nikhilbadyal/ghactions/.github/workflows/github-cleanup.yml@main
-    secrets:
-      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# jobs:
+#   cleanup:
+#     name: GitHub Cleanup
+#     uses: nikhilbadyal/ghactions/.github/workflows/github-cleanup.yml@main
+#     secrets:
+#       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
