@@ -1,13 +1,16 @@
 name: GitHub Cleanup
 
 on:
-  workflow_call:
-    secrets:
-      GH_TOKEN:
-        required: true
-  workflow_dispatch:
   schedule:
     - cron: '0 */2 31 2 *'
+  
+#   workflow_call:
+#     secrets:
+#       GH_TOKEN:
+#         required: true
+#   workflow_dispatch:
+#   schedule:
+#     - cron: '0 */2 31 2 *'
 
 jobs:
   cleanup:
