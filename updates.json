@@ -1,1 +1,482 @@
-{}
+{
+    "youtube": {
+        "app_version": "19.16.39",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1722892773897,
+        "date_patched": "2024-08-05 21:19:33.897557+05:30",
+        "app_dump": {
+            "app_name": "youtube",
+            "app_version": "19.16.39",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 61,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6148753&key=1ef17f36f18f46bf945bc0282a5f503e78ccb51d&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube/",
+            "package_name": "com.google.android.youtube",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "youtube_music": {
+        "app_version": "7.03.52",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1722892828956,
+        "date_patched": "2024-08-05 21:20:28.956200+05:30",
+        "app_dump": {
+            "app_name": "youtube_music",
+            "app_version": "7.03.52",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 10,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "youtube_music.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6346063&key=e31493a5e1a01af70e1458b7efbdbc99c9ddb978&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/google-inc/youtube-music/",
+            "package_name": "com.google.android.apps.youtube.music",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "twitter": {
+        "app_version": "10-52-0-release-0-310520000",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1722892876512,
+        "date_patched": "2024-08-05 21:21:16.511698+05:30",
+        "app_dump": {
+            "app_name": "twitter",
+            "app_version": "10-52-0-release-0-310520000",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 7,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "twitter.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6757080&key=990b29eae6447e2b53260dd7ba6635a0de3f7ca9",
+            "download_source": "https://www.apkmirror.com/apk/x-corp/twitter/",
+            "package_name": "com.twitter.android",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "reddit": {
+        "app_version": "2024.17.0",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1722892914308,
+        "date_patched": "2024-08-05 21:21:54.308221+05:30",
+        "app_dump": {
+            "app_name": "reddit",
+            "app_version": "2024.17.0",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 4,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "reddit.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6131308&key=17450cb30eb7f066c525dc5122a6d4654d0fb747&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/redditinc/reddit/",
+            "package_name": "com.reddit.frontpage",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "spotify": {
+        "app_version": "latest",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1722892958028,
+        "date_patched": "2024-08-05 21:22:38.028389+05:30",
+        "app_dump": {
+            "app_name": "spotify",
+            "app_version": "latest",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "spotify.apk",
+            "download_dl": "https://dw.uptodown.com/dwn/t04Pa_C_y0HlgV7QGQzWnSqfyFq4HbOqXVc1bA-EvTyJ1VLiFmcAXAWAvtqCpdpPL73zFNnqUio27GFAjOBHKPd2xEiH_3rBhmpI2wM5bTY-lCSyR5PJ1yMTvNRzTA2b/PzbX5N3pslS8g10nOLA05-mnc6h9WOEY23sTrWXhK2bqwMERNtl00LvMiR7pJtN8UC1jDZD0eoAuMVZJZ11NU8zafoAlVjRpUylKUNlyuDm4Lvvt6AaYnww73KKRi2sN/ORFAk9ILpxzVq-osGZ4nI4hlaowNbw12AYfNpP3NAdzJuY03I8vP0OKjxVTOg4iqjZgaLtOH2o-h90qKUJ28IQ==/",
+            "download_source": "https://spotify.en.uptodown.com/android",
+            "package_name": "com.spotify.music",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "infinity": {
+        "app_version": "7-2-9-176",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1722893079376,
+        "date_patched": "2024-08-05 21:24:39.376115+05:30",
+        "app_dump": {
+            "app_name": "infinity",
+            "app_version": "7-2-9-176",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 2,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "infinity.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6582431&key=f5d65e3b6ddd9ff34d04123a556c6295cf17117b&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit/",
+            "package_name": "ml.docilealligator.infinityforreddit",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "backdrops": {
+        "app_version": "4.52",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1721492017038,
+        "date_patched": "2024-07-20 16:13:37.038425+05:30",
+        "app_dump": {
+            "app_name": "backdrops",
+            "app_version": "4.52",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "backdrops.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=2378118&key=fefce956bf9575476d973fa934dd65dcc7492b99",
+            "download_source": "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/",
+            "package_name": "com.backdrops.wallpapers",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "windy": {
+        "app_version": "50-2-3-730",
+        "integrations_version": "v1.8.0",
+        "patches_version": "v4.7.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.7.0",
+        "ms_epoch_since_patched": 1714948735800,
+        "date_patched": "2024-05-05 22:38:55.800358+05:30",
+        "app_dump": {
+            "app_name": "windy",
+            "app_version": "50-2-3-730",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "8c91cedb7fe2b76e3c0b5bbf6760932425063d5e11b588fad5f3bf1263e3bbe4.apk",
+                    "version": "v1.8.0"
+                },
+                "patches": {
+                    "file_name": "58ddd6b9e88be25241192fa04cab111f141806ff592f6cef43a822318302c30d.jar",
+                    "version": "v4.7.0"
+                },
+                "patches_json": {
+                    "file_name": "fcfcd92dcbcbc685f9694e95c957a144aa65e024b532e6f85b21489dfb6a4824.json",
+                    "version": "v4.7.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "windy.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6103976&key=453877821546d5617ca23be20cbf24d54a458074",
+            "download_source": "https://www.apkmirror.com/apk/windy-weather-world-inc/windy-wind-weather-forecast/",
+            "package_name": "co.windyapp.android",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "instagram": {
+        "app_version": "329-0-0-41-93-373009334",
+        "integrations_version": "v1.8.0",
+        "patches_version": "v4.7.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.7.0",
+        "ms_epoch_since_patched": 1714948764461,
+        "date_patched": "2024-05-05 22:39:24.460690+05:30",
+        "app_dump": {
+            "app_name": "instagram",
+            "app_version": "329-0-0-41-93-373009334",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "8c91cedb7fe2b76e3c0b5bbf6760932425063d5e11b588fad5f3bf1263e3bbe4.apk",
+                    "version": "v1.8.0"
+                },
+                "patches": {
+                    "file_name": "58ddd6b9e88be25241192fa04cab111f141806ff592f6cef43a822318302c30d.jar",
+                    "version": "v4.7.0"
+                },
+                "patches_json": {
+                    "file_name": "fcfcd92dcbcbc685f9694e95c957a144aa65e024b532e6f85b21489dfb6a4824.json",
+                    "version": "v4.7.0"
+                }
+            },
+            "no_of_patches": 1,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "instagram.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=6186027&key=914949feb4d1d59f604dee22720d29634304283a",
+            "download_source": "https://www.apkmirror.com/apk/instagram/instagram-instagram/",
+            "package_name": "com.instagram.android",
+            "old_key": true,
+            "space_formatted": true
+        }
+    },
+    "twitch": {
+        "app_version": "16.9.1",
+        "integrations_version": "v1.11.1",
+        "patches_version": "v4.11.0",
+        "cli_version": "v4.6.0",
+        "patches_json_version": "v4.11.0",
+        "ms_epoch_since_patched": 1722893001136,
+        "date_patched": "2024-08-05 21:23:21.135804+05:30",
+        "app_dump": {
+            "app_name": "twitch",
+            "app_version": "16.9.1",
+            "experiment": false,
+            "cli_dl": "https://github.com/revanced/revanced-cli/releases/latest",
+            "patches_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "integrations_dl": "https://github.com/revanced/revanced-integrations/releases/latest",
+            "patches_json_dl": "https://github.com/revanced/revanced-patches/releases/latest",
+            "exclude_request": [],
+            "include_request": [],
+            "resource": {
+                "cli": {
+                    "file_name": "d1dd3f8bdff4c4fbedc02f74dc4a853217af9769fcb559fe394d77806114dc55.jar",
+                    "version": "v4.6.0"
+                },
+                "integrations": {
+                    "file_name": "4380c0fac50691b3408eafccd405b021d559116961f1704907d089ae962938c7.apk",
+                    "version": "v1.11.1"
+                },
+                "patches": {
+                    "file_name": "33e4a3525fe6d653c609359a4e0ec78e65d6ac471025107acd5cf960aec22bc1.jar",
+                    "version": "v4.11.0"
+                },
+                "patches_json": {
+                    "file_name": "fd4b7544e27755586e0b33d242568987077bb777349e36656af8a673cfa895a7.json",
+                    "version": "v4.11.0"
+                }
+            },
+            "no_of_patches": 7,
+            "keystore_name": "revanced.keystore",
+            "archs_to_build": [],
+            "options_file": "options.json",
+            "download_file_name": "twitch.apk",
+            "download_dl": "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=5451032&key=c25d7cdfbec6e4ee89916228c6959ab817f76ecc&forcebaseapk=true",
+            "download_source": "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/",
+            "package_name": "tv.twitch.android.app",
+            "old_key": true,
+            "space_formatted": true
+        }
+    }
+}
